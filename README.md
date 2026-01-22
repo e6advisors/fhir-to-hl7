@@ -448,9 +448,6 @@ For issues, questions, or contributions, please open an issue on the GitHub repo
 ## Related Projects
 
 - [hl7-parser](https://github.com/e6advisors/hl7-parser) - HL7 message parser (required dependency)
-- [hl7-deidentification](https://github.com/e6advisors/hl7-deidentification) - HL7 de-identification library
-- [hl7-to-fhir](https://github.com/e6advisors/hl7-to-fhir) - HL7 to FHIR converter
-- [fhir-to-hl7](https://github.com/e6advisors/hl7-data-quality) - HL7 data quality agent library
 
 ## Version History
 
